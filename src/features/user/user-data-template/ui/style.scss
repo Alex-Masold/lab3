@@ -1,0 +1,12 @@
+.user-table__row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.user-table__cell {
+    min-width: 120px;
+    background-color: #888888;
+    border: 1px solid cornsilk;
+    text-align: center;
+    padding: 4px;
+}

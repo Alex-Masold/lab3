@@ -1,0 +1,1 @@
+export { default as UserDataTemplate} from './UserDataTemplate.vue'

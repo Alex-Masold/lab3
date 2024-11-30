@@ -1,0 +1,12 @@
+.movie-table__row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.movie-table__cell {
+  min-width: 120px;
+  background-color: burlywood;
+  border: 1px solid antiquewhite;
+  text-align: center;
+  padding: 4px;
+}

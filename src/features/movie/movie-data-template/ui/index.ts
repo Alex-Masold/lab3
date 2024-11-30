@@ -1,0 +1,1 @@
+export { default as MovieDataTemplate} from './MovieDataTemplate.vue'
